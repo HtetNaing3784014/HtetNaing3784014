@@ -1,113 +1,115 @@
-<div align="center">
+# Hi, I'm Htet Naing 👋
 
-```
-╔══════════════════════════════════════════════════════════╗
-║   H T E T   N A I N G   //   Software Engineer           ║
-║   Fredericton, NB · Full-Stack · ML · Cybersecurity      ║
-╚══════════════════════════════════════════════════════════╝
-```
+🎓 M.S. Computer Science — University of New Brunswick (2026)
+💻 Full-Stack Engineer | AI/ML | Secure Software Design
+📍 Canada
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-htetnaing.vercel.app-0f172a?style=for-the-badge)](https://htetnaing.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Htet_Naing-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/htet-naing-9370aa181)
-[![Email](https://img.shields.io/badge/Email-htet.ko.naing.7393-EA4335?style=for-the-badge&logo=gmail)](mailto:htet.ko.naing.7393@outlook.com)
-
-</div>
+I’m a software engineer with strong foundations in **full-stack development, AI/ML, and secure software systems**. I enjoy building intelligent applications, working with graph data, and deploying scalable systems using modern cloud and container technologies.
 
 ---
 
-## `$ whoami`
+## 🚀 About Me
 
-> M.S. Computer Science candidate @ **University of New Brunswick** *(2026)*  
-> Full-Stack Engineer @ **Canadian Institute for Cybersecurity**  
-> Previously: Electrical Engineer → B.S. CS @ University of Utah → Now building cool things at the intersection of **web**, **AI**, and **security**
-
-I went from wiring air-conditioning systems across Singapore to training LLMs and building cybersecurity tooling in Canada. Non-linear paths lead to interesting engineers.
-
----
-
-## `$ cat skills.json`
-
-```json
-{
-  "frontend":        ["React", "TypeScript", "JavaScript", "Tailwind CSS", "Flask"],
-  "backend":         ["Node.js", "Python", "Express.js", "Java", "C#", ".NET"],
-  "databases":       ["PostgreSQL", "Neo4j", "MongoDB", "SQLite"],
-  "infrastructure":  ["AWS", "Azure", "Docker", "Kubernetes", "Kafka", "RabbitMQ", "CI/CD"],
-  "ai_and_ml":       ["MCP", "Hugging Face", "PyTorch", "LoRA Fine-tuning", "Model Quantization", "Edge AI"]
-}
-```
+* 🔭 Currently working as **Full-Stack Engineer** at Canadian Institute for Cybersecurity
+* 🤖 Building AI-powered applications and lightweight LLM systems
+* 🧠 Interested in Machine Learning, Cybersecurity, and Graph-based systems
+* ☁️ Experience deploying apps using **Docker, Kubernetes, and Azure/AWS**
+* 🛠️ Passionate about clean architecture and scalable backend systems
 
 ---
 
-## `$ ls -la ./projects`
+## 🧰 Tech Stack
 
-### 🎬 [Movie Mafia](https://github.com/HtetNaing3784014) `2026`
-> Movie directory app with browsing, search, reviews & personalized recommendations  
-> `React` `Express.js` `PostgreSQL` `Kubernetes` `Azure`
+### Frontend
 
----
+React • TypeScript • JavaScript • Tailwind CSS • Flask
 
-### 🌱 Plant Watering System `2026`
-> Automated watering system using soil moisture sensing + on-device ML inference  
-> `Edge Impulse` `MLP Model` `Arduino` `React` `Node.js`
+### Backend
 
----
+Node.js • Python • Express.js • PostgreSQL • Neo4j • REST APIs • Java • C#
 
-### 🔐 Tiny LLM for Microsoft STRIDE `2025`
-> Fine-tuned TinyLlama-1.1B to classify threat scenarios into STRIDE categories — runs fully on-device  
-> `Python` `PyTorch` `Hugging Face Transformers` `LoRA`
+### Infrastructure & Cloud
 
----
+AWS • Azure • Docker • Kubernetes • CI/CD • Kafka • RabbitMQ • .NET
 
-### 📊 API Version Analyzer `2024`
-> Pulls API version data from APIguru.com and surfaces actionable analytics via interactive visualizations  
-> `Flask` `D3.js` `JavaScript`
+### AI / Machine Learning
+
+Hugging Face • PyTorch • Model Fine-tuning • Quantization • MCP
+TinyLlama • Edge AI • MLP Models
 
 ---
 
-### 🎓 Teaching Assistant Application Portal `2022`
-> Web app for students to apply for TA positions @ University of Utah, hosted on AWS  
-> `C#` `ASP.NET` `SQLite` `Bootstrap` `AWS`
+## 💼 Experience
+
+**Full-Stack Engineer**
+Canadian Institute for Cybersecurity — 2025–Present
+
+* Developed cybersecurity web applications using React, Neo4j, MongoDB, Docker
+* Integrated AI agents via MCP for intelligent automation and analysis
+* Enhanced system performance with modern architecture and tooling
 
 ---
 
-## `$ cat experience.log`
+## 📌 Featured Projects
 
-```
-[2025 → now]  Full-Stack Engineer         Canadian Institute for Cybersecurity
-              ↳ Built cybersecurity app w/ React + Neo4j + MongoDB + Docker
-              ↳ Integrated AI agents via MCP for intelligent automation
+### 🎬 Movie Mafia
 
-[2014 → 2018] Electrical Engineer         Shinryo Corporation, Singapore
-              ↳ Led 10-person team on ACMV installations across SG
-              ↳ Coordinated across multinational project stakeholders
-```
+Movie directory with recommendations and reviews
+
+* React + Express + PostgreSQL
+* Kubernetes deployment on Azure
+
+### 🌱 Plant Watering System
+
+Automated watering system using ML soil detection
+
+* Edge Impulse + Arduino + MLP Model
+* React + Node.js monitoring dashboard
+
+### 🤖 Tiny LLM for Microsoft STRIDE
+
+Local LLM for threat classification
+
+* TinyLlama fine-tuning with LoRA
+* Python + PyTorch + Hugging Face
+* On-device inference
+
+### 🔍 API Version Analyzer
+
+Analytics tool for API version discovery
+
+* Flask + D3.js + JavaScript
+* Data from APIguru
+
+### 🎓 Teaching Assistant Application Website
+
+TA application platform hosted on AWS
+
+* C# + ASP.NET + SQLite
+* HTML + CSS + JavaScript
 
 ---
 
-## `$ cat education.md`
+## 🎓 Education
 
-| Degree | Institution | Year |
-|--------|-------------|------|
-| **M.S. Computer Science** | University of New Brunswick, Canada | 2026 |
-| **B.S. Computer Science** | University of Utah, USA | 2023 |
-| **Diploma, Electrical Engineering** | Singapore Polytechnic, Singapore | 2013 |
+**M.S. Computer Science**
+University of New Brunswick — 2026
 
----
+**B.S. Computer Science**
+University of Utah — 2023
 
-## `$ cat interests.txt`
-
-```
-Software Security       Machine Learning
-Web Dev & Deployment    Edge AI
-Big Data Systems        API Design
-Software Architecture   AI Integration
-```
+Diploma in Electrical Engineering
+Singapore Polytechnic — 2013
 
 ---
 
-<div align="center">
+## 📫 Connect With Me
 
-*"From circuits to code — always building, always learning."*
+* Portfolio: https://htetnaing.vercel.app
+* GitHub: https://github.com/HtetNaing3784014
+* LinkedIn: https://linkedin.com/in/htet-naing-9370aa181
+* Email: [htet.ko.naing.7393@outlook.com](mailto:htet.ko.naing.7393@outlook.com)
 
-</div>
+---
+
+⭐️ From [HtetNaing3784014](https://github.com/HtetNaing3784014)
